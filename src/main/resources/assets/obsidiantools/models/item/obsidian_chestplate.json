@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "obsidiantools:items/obsidian_chestplate"
+    }
+
+
+    
+ }

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RBR",
+        "RRR",
+        "RRR"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "obsidiantools:reinforced_obsidian_ingot"
+        },
+
+        "B":
+        {
+            "item":"obsidiantools:blaze_essence"
+        }
+    },
+   
+    "result":
+    {
+        "item": "obsidiantools:reinforced_obsidian_chestplate",
+        "count": 1
+    }
+}

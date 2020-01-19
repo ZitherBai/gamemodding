@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "OOO",
+        "ODO",
+        "OOO"
+    ],
+   
+    "key":
+    {
+        "O":
+        {
+            "item": "obsidiantools:obsidian_ingot"
+        },
+
+        "D":
+        {
+            "item": "minecraft:diamond_block"
+        }
+    },
+   
+    "result":
+    {
+        "item": "obsidiantools:reinforced_obsidian_ingot",
+        "count": 1
+    }
+}

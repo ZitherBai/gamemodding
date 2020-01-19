@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "O",
+        "S",
+        "S"
+    ],
+   
+    "key":
+    {
+        "O":
+        {
+            "item": "obsidiantools:obsidian_ingot"
+        },
+
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "obsidiantools:obsidian_shovel",
+        "count": 1
+    }
+}

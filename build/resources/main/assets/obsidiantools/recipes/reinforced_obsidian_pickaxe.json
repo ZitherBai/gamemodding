@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RRR",
+        " B ",
+        " B "
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "obsidiantools:reinforced_obsidian_ingot"
+        },
+
+        "B":
+        {
+            "item": "minecraft:blaze_rod"
+        }
+    },
+   
+    "result":
+    {
+        "item": "obsidiantools:reinforced_obsidian_pickaxe",
+        "count": 1
+    }
+}

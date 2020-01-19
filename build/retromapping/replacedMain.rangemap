@@ -1,0 +1,91 @@
+Symbol range map extraction starting
+Processing 4 files
+startProcessing "com\zither\first_mod\Main.java" md5: 45e4b98b7f906ceef1f2e088ba4f3505
+@|com\zither\first_mod\Main.java|8|28|com.zither.first_mod|package|com.zither.first_mod|(file)
+Class Start: com.zither.first_mod.Main
+   @|com\zither\first_mod\Main.java|530|533|Mod|class|net.minecraftforge.fml.common.Mod
+   @|com\zither\first_mod\Main.java|534|539|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com\zither\first_mod\Main.java|542|551|Reference|class|com.zither.first_mod.util.Reference
+   @|com\zither\first_mod\Main.java|552|558|MOD_ID|field|com.zither.first_mod.util.Reference|MOD_ID
+   @|com\zither\first_mod\Main.java|560|564|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com\zither\first_mod\Main.java|567|576|Reference|class|com.zither.first_mod.util.Reference
+   @|com\zither\first_mod\Main.java|577|581|NAME|field|com.zither.first_mod.util.Reference|NAME
+   @|com\zither\first_mod\Main.java|583|590|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com\zither\first_mod\Main.java|593|602|Reference|class|com.zither.first_mod.util.Reference
+   @|com\zither\first_mod\Main.java|603|610|VERSION|field|com.zither.first_mod.util.Reference|VERSION
+   @|com\zither\first_mod\Main.java|626|630|Main|class|com.zither.first_mod.Main
+   @|com\zither\first_mod\Main.java|666|670|Main|class|com.zither.first_mod.Main
+   @|com\zither\first_mod\Main.java|639|647|Instance|class|net.minecraftforge.fml.common.Mod.Instance
+   @|com\zither\first_mod\Main.java|666|670|Main|class|com.zither.first_mod.Main
+   @|com\zither\first_mod\Main.java|671|679|instance|field|com.zither.first_mod.Main|instance|
+   @|com\zither\first_mod\Main.java|802|813|CommonProxy|class|com.zither.first_mod.proxy.CommonProxy
+   @|com\zither\first_mod\Main.java|687|697|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy
+   @|com\zither\first_mod\Main.java|698|708|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|com\zither\first_mod\Main.java|711|720|Reference|class|com.zither.first_mod.util.Reference
+   @|com\zither\first_mod\Main.java|721|739|CLIENT_PROXY_CLASS|field|com.zither.first_mod.util.Reference|CLIENT_PROXY_CLASS
+   @|com\zither\first_mod\Main.java|741|751|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|com\zither\first_mod\Main.java|754|763|Reference|class|com.zither.first_mod.util.Reference
+   @|com\zither\first_mod\Main.java|764|782|COMMON_PROXY_CLASS|field|com.zither.first_mod.util.Reference|COMMON_PROXY_CLASS
+   @|com\zither\first_mod\Main.java|802|813|CommonProxy|class|com.zither.first_mod.proxy.CommonProxy
+   @|com\zither\first_mod\Main.java|814|819|proxy|field|com.zither.first_mod.Main|proxy|
+   Method Start: PreInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\zither\first_mod\Main.java|897|902|event|param|com.zither.first_mod.Main|PreInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com\zither\first_mod\Main.java|827|839|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\zither\first_mod\Main.java|863|870|PreInit|method|com.zither.first_mod.Main|PreInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\zither\first_mod\Main.java|871|896|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+   Method End: PreInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\zither\first_mod\Main.java|987|992|event|param|com.zither.first_mod.Main|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|com\zither\first_mod\Main.java|923|935|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\zither\first_mod\Main.java|959|963|init|method|com.zither.first_mod.Main|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\zither\first_mod\Main.java|964|986|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: Postinit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\zither\first_mod\Main.java|1089|1094|event|param|com.zither.first_mod.Main|Postinit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+      @|com\zither\first_mod\Main.java|1017|1029|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\zither\first_mod\Main.java|1053|1061|Postinit|method|com.zither.first_mod.Main|Postinit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\zither\first_mod\Main.java|1062|1088|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+   Method End: Postinit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : com.zither.first_mod.Main
+endProcessing "com\zither\first_mod\Main.java"
+
+startProcessing "com\zither\first_mod\proxy\ClientProxy.java" md5: f971eda3a0880c2f883ac8a605aae8d3
+@|com\zither\first_mod\proxy\ClientProxy.java|8|34|com.zither.first_mod.proxy|package|com.zither.first_mod.proxy|(file)
+Class Start: com.zither.first_mod.proxy.ClientProxy
+   @|com\zither\first_mod\proxy\ClientProxy.java|50|61|ClientProxy|class|com.zither.first_mod.proxy.ClientProxy
+   @|com\zither\first_mod\proxy\ClientProxy.java|70|81|CommonProxy|class|com.zither.first_mod.proxy.CommonProxy
+Class End  : com.zither.first_mod.proxy.ClientProxy
+endProcessing "com\zither\first_mod\proxy\ClientProxy.java"
+
+startProcessing "com\zither\first_mod\proxy\CommonProxy.java" md5: 12b82cdfa1f6a00302d01a47d0509cdb
+@|com\zither\first_mod\proxy\CommonProxy.java|8|34|com.zither.first_mod.proxy|package|com.zither.first_mod.proxy|(file)
+Class Start: com.zither.first_mod.proxy.CommonProxy
+   @|com\zither\first_mod\proxy\CommonProxy.java|50|61|CommonProxy|class|com.zither.first_mod.proxy.CommonProxy
+Class End  : com.zither.first_mod.proxy.CommonProxy
+endProcessing "com\zither\first_mod\proxy\CommonProxy.java"
+
+startProcessing "com\zither\first_mod\util\Reference.java" md5: f41dc6707777de2a7ecf6d53043bd6ed
+@|com\zither\first_mod\util\Reference.java|8|33|com.zither.first_mod.util|package|com.zither.first_mod.util|(file)
+Class Start: com.zither.first_mod.util.Reference
+   @|com\zither\first_mod\util\Reference.java|49|58|Reference|class|com.zither.first_mod.util.Reference
+   @|com\zither\first_mod\util\Reference.java|87|93|String|class|java.lang.String
+   @|com\zither\first_mod\util\Reference.java|87|93|String|class|java.lang.String
+   @|com\zither\first_mod\util\Reference.java|94|100|MOD_ID|field|com.zither.first_mod.util.Reference|MOD_ID|
+   @|com\zither\first_mod\util\Reference.java|161|167|String|class|java.lang.String
+   @|com\zither\first_mod\util\Reference.java|161|167|String|class|java.lang.String
+   @|com\zither\first_mod\util\Reference.java|168|172|NAME|field|com.zither.first_mod.util.Reference|NAME|
+   @|com\zither\first_mod\util\Reference.java|212|218|String|class|java.lang.String
+   @|com\zither\first_mod\util\Reference.java|212|218|String|class|java.lang.String
+   @|com\zither\first_mod\util\Reference.java|219|226|VERSION|field|com.zither.first_mod.util.Reference|VERSION|
+   @|com\zither\first_mod\util\Reference.java|262|268|String|class|java.lang.String
+   @|com\zither\first_mod\util\Reference.java|262|268|String|class|java.lang.String
+   @|com\zither\first_mod\util\Reference.java|269|286|ACCEPTED_VERSIONS|field|com.zither.first_mod.util.Reference|ACCEPTED_VERSIONS|
+   @|com\zither\first_mod\util\Reference.java|325|331|String|class|java.lang.String
+   @|com\zither\first_mod\util\Reference.java|325|331|String|class|java.lang.String
+   @|com\zither\first_mod\util\Reference.java|332|350|CLIENT_PROXY_CLASS|field|com.zither.first_mod.util.Reference|CLIENT_PROXY_CLASS|
+   @|com\zither\first_mod\util\Reference.java|420|426|String|class|java.lang.String
+   @|com\zither\first_mod\util\Reference.java|420|426|String|class|java.lang.String
+   @|com\zither\first_mod\util\Reference.java|427|445|COMMON_PROXY_CLASS|field|com.zither.first_mod.util.Reference|COMMON_PROXY_CLASS|
+Class End  : com.zither.first_mod.util.Reference
+endProcessing "com\zither\first_mod\util\Reference.java"
+

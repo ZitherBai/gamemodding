@@ -1,0 +1,16 @@
+[
+{
+  "modid": "obsidiantools",
+  "name": "Obsidian Tools",
+  "description": "First try on developing mods, let me know your in-game ID via WeChat so that I can list you as an alpha tester!",
+  "version": "1.5.0",
+  "mcversion": "1.12.2",
+  "url": "Contact me via WeChat!",
+  "updateUrl": "",
+  "authorList": ["Jackie"],
+  "credits": "Myself and people who made the resourcepack",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

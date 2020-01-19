@@ -1,0 +1,39 @@
+//items
+
+item.obsidian_ingot.name=Obsidian Ingot
+item.obsidian_sword.name=Obsidian Sword
+item.obsidian_axe.name=Obsidian Axe
+item.obsidian_hoe.name=Obsidian Hoe
+item.obsidian_pickaxe.name=Obsidian Pickaxe
+item.obsidian_shovel.name=Obsidian Shovel
+
+item.reinforced_obsidian_ingot.name=Reinforced Obsidian Ingot
+item.reinforced_obsidian_sword.name=Phoenix Sword
+item.reinforced_obsidian_axe.name=Phoenix Axe
+item.reinforced_obsidian_hoe.name=Phoenix Hoe
+item.reinforced_obsidian_pickaxe.name=Phoenix Pickaxe
+item.reinforced_obsidian_shovel.name=Phoenix Shovel
+
+item.blaze_essence.name=Blaze Essence
+
+
+//blocks
+
+
+
+
+//armor
+
+item.obsidian_helmet.name=Obsidian Helmet
+item.obsidian_chestplate.name=Obsidian Chestplate
+item.obsidian_leggings.name=Obsidian Leggings
+item.obsidian_boots.name=Obsidian Boots
+
+item.reinforced_obsidian_helmet.name=Phoenix Helmet
+item.reinforced_obsidian_chestplate.name=Phoenix Chestplate
+item.reinforced_obsidian_leggings.name=Phoenix Leggings
+item.reinforced_obsidian_boots.name=Phoenix Boots
+
+
+//creative tab
+itemGroup.mod_tab=Obsidian Tools

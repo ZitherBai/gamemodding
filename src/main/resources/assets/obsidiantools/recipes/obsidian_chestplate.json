@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "O O",
+        "OOO",
+        "OOO"
+    ],
+   
+    "key":
+    {
+        "O":
+        {
+            "item": "obsidiantools:obsidian_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "obsidiantools:obsidian_chestplate",
+        "count": 1
+    }
+}

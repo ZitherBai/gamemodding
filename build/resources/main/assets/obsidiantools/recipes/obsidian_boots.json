@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "O O",
+        "O O"
+    ],
+   
+    "key":
+    {
+        "O":
+        {
+            "item": "obsidiantools:obsidian_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "obsidiantools:obsidian_boots",
+        "count": 1
+    }
+}
